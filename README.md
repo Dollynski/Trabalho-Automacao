@@ -4,9 +4,9 @@ O programa em Python automatiza o processo de login na plataforma Blackboard atr
 
 # Requisitos
 
--- Python = Instale a versão mais recente pelo website oficial. https://www.python.org/
--- Selenium = Instale a biblioteca através do gerenciador de pacotes pip. pip install selenium 
--- Webdriver = Encontre a biblioteca referente ao seu navegador https://www.selenium.dev/documentation/en/webdriver/driver_requirements e faça a 
+- Python = Instale a versão mais recente pelo website oficial. https://www.python.org/
+- Selenium = Instale a biblioteca através do gerenciador de pacotes pip. pip install selenium 
+- Webdriver = Encontre a biblioteca referente ao seu navegador https://www.selenium.dev/documentation/en/webdriver/driver_requirements e faça a 
 instalação do programa através do gerenciador de pacotes pip.  pip install webdriver_manager 
 
 # Usando o Programa
